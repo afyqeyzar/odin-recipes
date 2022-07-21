@@ -1,0 +1,22 @@
+#title{
+    background-color: burlywood;
+    color: azure;
+    text-align: center;
+}
+
+#image{
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.center{
+    text-align: center;
+}
+
+.myUL {
+    display: inline-block;
+    text-align: left;
+  }
